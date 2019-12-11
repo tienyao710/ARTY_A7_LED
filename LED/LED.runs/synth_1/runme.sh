@@ -24,7 +24,7 @@ else
 fi
 export LD_LIBRARY_PATH
 
-HD_PWD='C:/Users/eddie/Desktop/Eddie_folder/FPGA/XILINX/ARTY_A7/code/LED/LED/LED.runs/synth_1'
+HD_PWD='C:/Users/eddie/Desktop/Eddie_folder/FPGA/XILINX/ARTY_A7/Project/LED/ARTY_A7_LED/LED/LED.runs/synth_1'
 cd "$HD_PWD"
 
 HD_LOG=runme.log

@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# Vivado v2017.4.1 (64-bit)
+# SW Build 2117270 on Tue Jan 30 15:32:00 MST 2018
+# IP Build 2095745 on Tue Jan 30 17:13:15 MST 2018
+# Start of session at: Mon Sep 23 17:29:51 2019
+# Process ID: 11232
+# Current directory: C:/Users/eddie/Desktop/Eddie_folder/FPGA/XILINX/ARTY_A7/Project/LED/LED
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent14704 C:\Users\eddie\Desktop\Eddie_folder\FPGA\XILINX\ARTY_A7\Project\LED\LED\LED.xpr
+# Log file: C:/Users/eddie/Desktop/Eddie_folder/FPGA/XILINX/ARTY_A7/Project/LED/LED/vivado.log
+# Journal file: C:/Users/eddie/Desktop/Eddie_folder/FPGA/XILINX/ARTY_A7/Project/LED/LED\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/eddie/Desktop/Eddie_folder/FPGA/XILINX/ARTY_A7/Project/LED/LED/LED.xpr
+update_compile_order -fileset sources_1
